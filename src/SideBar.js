@@ -4,7 +4,7 @@ import './SideBar.css'
 function SideBar() {
     return (
         <aside>
-            <h1>Popular Destinations</h1>
+            <h3>Popular Destinations</h3>
             <ul>
                 <li>Paris, France</li>
                 <li>Tokyo, Japan</li>

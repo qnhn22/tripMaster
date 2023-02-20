@@ -1,0 +1,14 @@
+main {
+    display: flex;
+    padding-top: 20px;
+    background-color: #b7e4c7;
+}
+
+.blog-list {
+    width: 80%;
+}
+
+.side-bar {
+    width: 30%;
+
+}
