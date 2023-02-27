@@ -12,12 +12,6 @@ function Blog({ title, image, description }) {
             </Card.Body>
             <Button className='read-more-btn' href='/blog'>Read more</Button>
         </Card>
-        // <div className="blog-post">
-        //     <img src={imgLink} alt=''></img>
-        //     <h3>{title}</h3>
-        //     <p>{description}</p>
-        //     <Button className='read-more-btn' href='/blog'>Read more</Button>
-        // </div>
     )
 }
 
