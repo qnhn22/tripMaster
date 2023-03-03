@@ -1,6 +1,5 @@
 import React from 'react'
 import Blog from './Blog'
-import './Feed.css'
 
 function Feed() {
     return (

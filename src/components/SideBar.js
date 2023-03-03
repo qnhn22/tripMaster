@@ -1,16 +1,15 @@
 import React from 'react'
-import './SideBar.css'
 
 function SideBar() {
     return (
         <aside>
             <h3>Popular Destinations</h3>
             <ul>
-                <li>Paris, France</li>
-                <li>Tokyo, Japan</li>
-                <li>New York, USA</li>
-                <li>Sydney, Australia</li>
-                <li>Hue, Vietnam</li>
+                <li><a href='https://www.dickinson.edu/homepage/623/gateway_login'>Paris, France</a></li>
+                <li><a href='https://www.dickinson.edu/homepage/623/gateway_login'>Tokyo, Japan</a></li>
+                <li><a href='https://www.dickinson.edu/homepage/623/gateway_login'>New York, USA</a></li>
+                <li><a href='https://www.dickinson.edu/homepage/623/gateway_login'>Sydney, Australia</a></li>
+                <li><a href='https://www.dickinson.edu/homepage/623/gateway_login'>Hue, Vietnam</a></li>
             </ul>
         </aside>
     )
