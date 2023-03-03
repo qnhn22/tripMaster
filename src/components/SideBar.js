@@ -9,7 +9,7 @@ function SideBar() {
                 <li><a href='https://www.dickinson.edu/homepage/623/gateway_login'>Tokyo, Japan</a></li>
                 <li><a href='https://www.dickinson.edu/homepage/623/gateway_login'>New York, USA</a></li>
                 <li><a href='https://www.dickinson.edu/homepage/623/gateway_login'>Sydney, Australia</a></li>
-                <li><a href='https://www.dickinson.edu/homepage/623/gateway_login'>Hue, Vietnam</a></li>
+                <li><a href='https://www.dickinson.edu/homepage/623/gateway_login'>Hanoi, Vietnam</a></li>
             </ul>
         </aside>
     )
